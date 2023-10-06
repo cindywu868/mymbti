@@ -8,4 +8,5 @@ date: 2023-10-06 23:17
 
 在把 n 分類為 introvertive intuition (Ni) 和 extrovertive intuition (Ne) 之前，到底什麼是 intuition? 
 
-據說 Jung 有另一篇著作 1912 年的《潛意識心理學》有詳細地解釋什麼是直覺 intuition，但我沒有看，或許之後有機會會拜讀。我對直覺的理解是
+據說 Jung 有另一篇著作 1912 年的《潛意識心理學》有詳細地解釋什麼是直覺 intuition，但我沒有看，或許之後有機會會拜讀。我對直覺的理解是從潛意識中抽取一些東西。而潛意識是怎樣來的？根據某睡眠專家所說，我們在睡覺的時候會把腦海裡一些不重要的東西掃入潛意識，然後忘掉。https://youtu.be/CIjY1yhD6l0?si=2r46VEua2i7ZDF1A
+比如說你忘記了自己某年某月在中大某飯堂吃了什麼
