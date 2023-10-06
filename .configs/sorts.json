@@ -1,14 +1,17 @@
 {
   "__positions" : {
-    "mbti.md" : 1,
-    "readme.md" : 2
+    "mbti.md" : 2,
+    "個人成長.md" : 1,
+    "readme.md" : 3
+  },
+  "__raw_positions" : {
+    "mbti.md" : 2,
+    "readme.md" : 3,
+    "個人成長.md" : 1
   },
   "" : [
+    "個人成長.md",
     "mbti.md",
     "readme.md"
-  ],
-  "__raw_positions" : {
-    "mbti.md" : 1,
-    "readme.md" : 2
-  }
+  ]
 }
