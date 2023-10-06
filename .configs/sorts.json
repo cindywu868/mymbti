@@ -1,17 +1,31 @@
 {
-  "__positions" : {
+  "__raw_positions" : {
+    "mbti文章\/sensing.md" : 1,
+    "mbti文章\/個人成長.md" : 2,
+    "readme.md" : 3,
+    "mbti文章\/mbti.md" : 3,
     "mbti.md" : 2,
     "個人成長.md" : 1,
-    "readme.md" : 3
-  },
-  "__raw_positions" : {
-    "mbti.md" : 2,
-    "readme.md" : 3,
-    "個人成長.md" : 1
+    "mbti文章" : 4
   },
   "" : [
     "個人成長.md",
     "mbti.md",
-    "readme.md"
-  ]
+    "readme.md",
+    "mbti文章"
+  ],
+  "mbti文章" : [
+    "sensing.md",
+    "個人成長.md",
+    "mbti.md"
+  ],
+  "__positions" : {
+    "mbti.md" : 2,
+    "mbti文章" : 4,
+    "mbti文章\/個人成長.md" : 4002,
+    "readme.md" : 3,
+    "mbti文章\/sensing.md" : 4001,
+    "mbti文章\/mbti.md" : 4003,
+    "個人成長.md" : 1
+  }
 }
