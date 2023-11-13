@@ -1,4 +1,7 @@
 {
+  "過來人" : [
+    "序.md"
+  ],
   "mbti文章" : [
     "intj.md",
     "小紫人2.md",
@@ -11,42 +14,41 @@
     "ine.md",
     "meme.md"
   ],
-  "__positions" : {
-    "mbti文章\/intj.md" : 4001,
-    "mbti文章\/紫人.md" : 4003,
-    "mbti文章\/intuitive.md" : 4005,
-    "mbti文章\/in人說.md" : 4004,
-    "mbti.md" : 2,
-    "mbti文章" : 4,
-    "mbti文章\/mbti.md" : 4007,
-    "mbti文章\/sensing.md" : 4006,
-    "個人成長.md" : 1,
-    "readme.md" : 3,
-    "mbti文章\/meme.md" : 4010,
-    "mbti文章\/ine.md" : 4009,
-    "mbti文章\/fnt.md" : 4008,
-    "mbti文章\/小紫人2.md" : 4002
+  "__raw_positions" : {
+    "mbti文章\/mbti.md" : 7,
+    "mbti文章\/fnt.md" : 8,
+    "過來人\/序.md" : 1,
+    "mbti文章\/ine.md" : 9,
+    "過來人" : 3,
+    "mbti文章\/sensing.md" : 6,
+    "readme.md" : 1,
+    "mbti文章" : 2,
+    "mbti文章\/meme.md" : 10,
+    "mbti文章\/intj.md" : 1,
+    "mbti文章\/in人說.md" : 4,
+    "mbti文章\/intuitive.md" : 5,
+    "mbti文章\/紫人.md" : 3,
+    "mbti文章\/小紫人2.md" : 2
   },
   "" : [
-    "個人成長.md",
-    "mbti.md",
     "readme.md",
-    "mbti文章"
+    "mbti文章",
+    "過來人"
   ],
-  "__raw_positions" : {
-    "mbti文章\/in人說.md" : 4,
-    "mbti文章\/intj.md" : 1,
-    "mbti文章\/小紫人2.md" : 2,
-    "mbti文章\/mbti.md" : 7,
-    "mbti.md" : 2,
-    "mbti文章\/紫人.md" : 3,
-    "mbti文章\/intuitive.md" : 5,
-    "mbti文章\/sensing.md" : 6,
-    "mbti文章\/meme.md" : 10,
-    "readme.md" : 3,
-    "個人成長.md" : 1,
-    "mbti文章\/fnt.md" : 8,
-    "mbti文章" : 4,
-    "mbti文章\/ine.md" : 9
+  "__positions" : {
+    "mbti文章\/紫人.md" : 2003,
+    "mbti文章\/小紫人2.md" : 2002,
+    "readme.md" : 1,
+    "mbti文章\/mbti.md" : 2007,
+    "mbti文章" : 2,
+    "mbti文章\/in人說.md" : 2004,
+    "mbti文章\/meme.md" : 2010,
+    "mbti文章\/intj.md" : 2001,
+    "mbti文章\/sensing.md" : 2006,
+    "過來人\/序.md" : 3001,
+    "mbti文章\/ine.md" : 2009,
+    "mbti文章\/fnt.md" : 2008,
+    "mbti文章\/intuitive.md" : 2005,
+    "過來人" : 3
   }
 }
