@@ -1,22 +1,23 @@
 {
-  "__raw_positions" : {
-    "mbti文章\/in人說2.md" : 1,
-    "過來人\/一retry.md" : 1,
-    "mbti文章" : 2,
-    "mbti文章\/ine.md" : 10,
-    "mbti文章\/in人說.md" : 5,
-    "過來人\/第一章.md" : 2,
-    "readme.md" : 1,
-    "mbti文章\/fnt.md" : 9,
-    "mbti文章\/intuitive.md" : 6,
-    "mbti文章\/sensing.md" : 7,
-    "過來人\/序.md" : 3,
-    "mbti文章\/紫人.md" : 4,
-    "mbti文章\/mbti.md" : 8,
-    "mbti文章\/小紫人2.md" : 3,
-    "mbti文章\/meme.md" : 11,
+  "__positions" : {
     "過來人" : 3,
-    "mbti文章\/intj.md" : 2
+    "mbti文章\/intj.md" : 2003,
+    "mbti文章\/紫人.md" : 2005,
+    "過來人\/序.md" : 3003,
+    "mbti文章" : 2,
+    "mbti文章\/in人說2.md" : 2002,
+    "mbti文章\/meme.md" : 2012,
+    "過來人\/一retry.md" : 3001,
+    "mbti文章\/in人說.md" : 2006,
+    "mbti文章\/intuitive.md" : 2007,
+    "readme.md" : 1,
+    "mbti文章\/mbti.md" : 2009,
+    "mbti文章\/ine.md" : 2011,
+    "過來人\/第一章.md" : 3002,
+    "mbti文章\/我的人格.md" : 2001,
+    "mbti文章\/小紫人2.md" : 2004,
+    "mbti文章\/sensing.md" : 2008,
+    "mbti文章\/fnt.md" : 2010
   },
   "過來人" : [
     "一retry.md",
@@ -29,6 +30,7 @@
     "過來人"
   ],
   "mbti文章" : [
+    "我的人格.md",
     "in人說2.md",
     "intj.md",
     "小紫人2.md",
@@ -41,23 +43,24 @@
     "ine.md",
     "meme.md"
   ],
-  "__positions" : {
-    "mbti文章\/intuitive.md" : 2006,
-    "mbti文章\/小紫人2.md" : 2003,
-    "mbti文章" : 2,
-    "過來人" : 3,
-    "mbti文章\/fnt.md" : 2009,
-    "mbti文章\/ine.md" : 2010,
-    "mbti文章\/meme.md" : 2011,
-    "過來人\/序.md" : 3003,
-    "過來人\/一retry.md" : 3001,
-    "mbti文章\/intj.md" : 2002,
-    "mbti文章\/in人說.md" : 2005,
-    "mbti文章\/sensing.md" : 2007,
+  "__raw_positions" : {
+    "mbti文章\/intj.md" : 3,
     "readme.md" : 1,
-    "mbti文章\/mbti.md" : 2008,
-    "mbti文章\/紫人.md" : 2004,
-    "過來人\/第一章.md" : 3002,
-    "mbti文章\/in人說2.md" : 2001
+    "過來人\/一retry.md" : 1,
+    "mbti文章\/intuitive.md" : 7,
+    "過來人\/序.md" : 3,
+    "mbti文章\/fnt.md" : 10,
+    "mbti文章\/meme.md" : 12,
+    "mbti文章" : 2,
+    "mbti文章\/mbti.md" : 9,
+    "過來人\/第一章.md" : 2,
+    "mbti文章\/ine.md" : 11,
+    "mbti文章\/in人說.md" : 6,
+    "mbti文章\/我的人格.md" : 1,
+    "mbti文章\/小紫人2.md" : 4,
+    "mbti文章\/sensing.md" : 8,
+    "mbti文章\/紫人.md" : 5,
+    "過來人" : 3,
+    "mbti文章\/in人說2.md" : 2
   }
 }
